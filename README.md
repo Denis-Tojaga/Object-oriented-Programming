@@ -1,4 +1,4 @@
-# Object-oriented-Programming-Exams
+# Object oriented Programming Exams
 
 All programming exams at Faculty of Information Technologies
 <br>
