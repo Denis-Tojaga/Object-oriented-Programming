@@ -197,7 +197,7 @@ int GetRazlika(Datum& prvi, Datum& drugi)
 
 class Pitanje {
     char* _sadrzaj;
-    //int se odnosi na ocjenu u opsegu  1 – 5, a Datum na datum kada je odgovor/rjesenje ocijenjeno
+    //int se odnosi na ocjenu u opsegu  1 â€“ 5, a Datum na datum kada je odgovor/rjesenje ocijenjeno
     Kolekcija<int, Datum*> _ocjeneRjesenja;
 public:
     Pitanje(const char* sadrzaj = "") {
