@@ -306,7 +306,7 @@ void main()
 
     Kolekcija<int, double> kolekcija2;
     kolekcija2 = kolekcija1;
-    kolekcija1.RemoveElement(2);//UMANJITI VELIÈINU NIZA
+    kolekcija1.RemoveElement(2);//UMANJITI VELIÃˆINU NIZA
     cout << kolekcija2 << crt;
 
     if (kolekcija1.getTrenutno() == kolekcija2.getTrenutno())
@@ -366,7 +366,7 @@ void main()
 //    /*ZakljuciRezultate - dodaje ocjenu 5 svim studentima koji su prijavili ispit
 //    a nije im evidentirana ocjena*/
     prIII.ZakljuciRezultate();
-//    //rezultati ispita se smiju ispisivati jedino ukoliko su prethodno zakljuèeni
+//    //rezultati ispita se smiju ispisivati jedino ukoliko su prethodno zakljuÃ¨eni
       prIII.Sortiraj();
       cout << prIII << crt;
 //
