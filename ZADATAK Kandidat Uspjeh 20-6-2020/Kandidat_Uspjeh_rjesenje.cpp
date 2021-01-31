@@ -175,7 +175,7 @@ public:
 
 class Predmet {
     char* _naziv;
-    //int se odnosi na ocjenu u opsegu od 1 – 5, a datum na momenat postizanja ocjene
+    //int se odnosi na ocjenu u opsegu od 1 â€“ 5, a datum na momenat postizanja ocjene
     Kolekcija<int, Datum> _ocjene;
 public:
     Predmet(const char* naziv = "", int ocjena = 0, Datum datum = Datum()) {
