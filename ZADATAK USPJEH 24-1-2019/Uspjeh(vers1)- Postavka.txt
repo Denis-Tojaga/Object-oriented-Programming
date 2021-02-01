@@ -129,12 +129,12 @@ public:
 void main() {
     /****************************************************************************
     1. SVE KLASE TREBAJU POSJEDOVATI ADEKVATAN DESTRUKTOR
-    2. NAMJERNO IZOSTAVLJANJE KOMPLETNIH I/ILI POJEDINIH DIJELOVA DESTRUKTORA KOJI UZROKUJU RUNTIME ERROR ∆E BITI OZNACENO KAO "RE"
-    3. SPAäAVAJTE PROJEKAT KAKO BI SE SPRIJE»ILO GUBLJENJE URA–ENOG ZADATKA
-    4. PROGRAMSKI CODE SE TAKO–ER NALAZI U FAJLU CODE.TXT
-    5. NAZIVI FUNKCIJA, TE BROJ I TIP PARAMETARA MORAJU BITI IDENTI»NI ONIMA KOJI SU KORIäTENI U TESTNOM CODE-U, OSIM U SLU»AJU 
-    DA POSTOJI ADEKVATAN RAZLOG ZA NJIHOVU MODIFIKACIJU. OSTALE, POMO∆NE FUNKCIJE MOéETE IMENOVATI I DODAVATI PO éELJI.
-    6. IZUZETAK BACITE U FUNKCIJAMA U KOJIMA JE TO NAZNA»ENO.
+    2. NAMJERNO IZOSTAVLJANJE KOMPLETNIH I/ILI POJEDINIH DIJELOVA DESTRUKTORA KOJI UZROKUJU RUNTIME ERROR √ÜE BITI OZNACENO KAO "RE"
+    3. SPA≈†AVAJTE PROJEKAT KAKO BI SE SPRIJE√àILO GUBLJENJE URA√êENOG ZADATKA
+    4. PROGRAMSKI CODE SE TAKO√êER NALAZI U FAJLU CODE.TXT
+    5. NAZIVI FUNKCIJA, TE BROJ I TIP PARAMETARA MORAJU BITI IDENTI√àNI ONIMA KOJI SU KORI≈†TENI U TESTNOM CODE-U, OSIM U SLU√àAJU 
+    DA POSTOJI ADEKVATAN RAZLOG ZA NJIHOVU MODIFIKACIJU. OSTALE, POMO√ÜNE FUNKCIJE MO≈ΩETE IMENOVATI I DODAVATI PO ≈ΩELJI.
+    6. IZUZETAK BACITE U FUNKCIJAMA U KOJIMA JE TO NAZNA√àENO.
     ****************************************************************************/
     cout << "NA KRAJU ISPITA, RAD PREDAJTE U ODGOVARAJUCI FOLDER NA FTP SERVERU (INTEGRALNI)!" << endl;
     DatumVrijeme temp,
@@ -223,7 +223,7 @@ void main() {
     ukoliko je, nakon dodavanja predmeta, prosjek na nivou te godine veci od 8.0 Studentu se, pored email-a, salje i SMS sa sadrzajem: "Svaka cast za uspjeh X.X       ostvaren u X godini studija".
     slanje poruka i emailova implemenitrati koristeci zasebne thread-ove.
     */
-    cout << "USPJEH ISPISATI KORISTE∆I OSTREAM_ITERATOR" << endl;
+    cout << "USPJEH ISPISATI KORISTE√ÜI OSTREAM_ITERATOR" << endl;
     cout << jasmin << endl;
     //vraca broj ponavljanja odredjene rijeci u napomenama, koristiti sregex_iterator
     cout << "Rijec takmicenje se pojavljuje " << jasmin.BrojPonavljanjaRijeci("takmicenju") << " puta." << endl;
