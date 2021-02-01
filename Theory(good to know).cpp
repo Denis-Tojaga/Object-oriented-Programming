@@ -2,6 +2,9 @@
 using namespace std;
 
 
+//neka pitanja sa parcijalnog ispita (na klik) Programiranje 2
+//lambda expressions
+
 
 class Datum {
 	int* _dan, * _mjesec, * _godina;
